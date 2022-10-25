@@ -1,4 +1,6 @@
 # Tracker
+*This application was created during Practical Python course.*
+
 *The aim of this app is to track time needed to perform different tasks given in a CSV file.*
 
 **How it works:**
